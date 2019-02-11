@@ -1,0 +1,37 @@
+1.computer  system architecture 
+    a)Multi processor system.(it contains #registers and # cache)
+        task will devided into sevaral pieces.
+        it also called tightly coupled and parallel  system.
+         exmple: int a;
+                 a=10 a not equal to 10.33 or else.
+         Multiprocessor share memory.
+        Computer's memory is ram.
+     Benifit:
+           economy of scale.Time of execution reduced.more realiable.increased output.
+     There are two type of multiprocessor.
+  1.Asymmective Multiproccessor.
+  2.Symmectric  multiprocessor.
+Dual Core.
+     b)Cluster System.(Losely Coupled as it havbe no mandatory rules)
+     it will have their own memory and periferals,
+      but they basically share memory.Sharing memory called "SAN"
+  Computer System Operation
+1)MultiProgramming.(Batch System).
+2)Multitasking(Time Sharing).
+
+*I/O operation occurs for interupt
+Job scheduling=multiprogramming.
+ Multitasking=cpu schudule
+time sharing responce will be less then 1sec.
+Dual Mode Operation.
+1)User mode
+2)Kernel mode
+user mode in safer and kernel mode is priviledged.
+trap =software interapt.   
+ process managment
+file managment.
+memory management.
+ System Call=
+API=application Programming Interface
+  
+
